@@ -1,0 +1,6 @@
+LastName,Company,Email,Phone,AccountId,Status,CreatedDate
+Smith,Acme Corp,jsmith@acmecorp.com,+1-415-555-0101,001300000000001AAA,Open,2026-09-10T12:00:00Z
+Smith,Acme Corp,jsmith@acmecorp.com,4155550101,001300000000001AAA,Working,2026-09-11T14:30:00Z
+Taylor,Apex Global,taylor@apexglobal.com,+1-212-555-0188,001300000000002AAA,Closed - Converted,2026-09-12T09:00:00Z
+,Orphan LLC,bad_email_at_test.com,+1-800-555-0199,bad_id_123,Open,2026/09/15
+Johnson,BlueWave,bjohnson@bluewave.io,,001300000000001AAA,Open,2026-09-16T15:45:00Z

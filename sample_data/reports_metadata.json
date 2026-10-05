@@ -1,0 +1,31 @@
+[
+  {
+    "Id": "00O5g000001AAAA",
+    "Name": "Q3 Global Pipeline by Region",
+    "DateFilterScope": "Current FQ",
+    "EstimatedRowCount": 4200,
+    "Filters": [
+      {"column": "StageName", "isIndexed": true},
+      {"column": "Region__c", "isIndexed": true}
+    ],
+    "DaysSinceLastRun": 2
+  },
+  {
+    "Id": "00O5g000002BBBB",
+    "Name": "All Historical Opportunities Master List",
+    "DateFilterScope": "All Time",
+    "EstimatedRowCount": 65000,
+    "Filters": [
+      {"column": "Legacy_External_Ref__c", "isIndexed": false}
+    ],
+    "DaysSinceLastRun": 12
+  },
+  {
+    "Id": "00O5g000003CCCC",
+    "Name": "Archived 2024 Campaign Contacts",
+    "DateFilterScope": "All Time",
+    "EstimatedRowCount": 800,
+    "Filters": [],
+    "DaysSinceLastRun": 240
+  }
+]
